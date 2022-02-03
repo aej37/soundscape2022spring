@@ -1,1 +1,3 @@
 Project Description 
+
+For my project, I am doing a "Night at the Orchestra". So it begins with taking the listener walking to the Concert Hall outside on by a busy street on a rainy evening. She is going out to enjoy an evening at the orchestra. The door opens and she enters the concert hall. Someone greets her and asks for her ticket. She then goes in to find her seat and there is background noises / small talk as people wait for the concert to start. The conductor walks out 
