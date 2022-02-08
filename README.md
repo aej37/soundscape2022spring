@@ -6,6 +6,10 @@ As you start planning your composition, consider: in what place (physical, virtu
 
 You don't need answers to all of these questions before getting started, but asking them early and returning to them often could help you get a sense of the soundscape you want to make.
 
+Project Description
+
+For my project, I am doing a "Night at the Orchestra". It begins with a woman walking to a Concert Hall outside by a busy street on a rainy evening. She is going out to enjoy an evening at the orchestra. She opens the heavy wooden door and she enters the concert hall. Someone greets her and asks for her ticket. She then goes in to find her seat and there is instruments tuning and small talk as people wait for the concert to start. The conductor walks out on stage and the orchestra starts to play. However this concert takes a turn and the audience will hear a different type of music...welcome to a Night at the Orchestra!
+
 ## Generative constraints
 _(to be updated together in lesson 6)_
 
